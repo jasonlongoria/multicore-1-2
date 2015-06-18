@@ -1,0 +1,1 @@
+{"mixinTypes":[],"builders":{"configs":{},"default":"ant"},"runners":{"configs":{"system:/java/standalone/simple/cli":{"ram":1000,"variables":{},"options":{}}},"default":"system:/java/standalone/simple/cli"},"type":"ant","attributes":{"languageVersion":["1.6"],"language":["java"]}}
